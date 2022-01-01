@@ -86,3 +86,8 @@ li{
 .descrip{
     width: 50%;
 }
+button{
+    border-radius: 25px;
+    width: 100px;
+    height: 100px;
+}
